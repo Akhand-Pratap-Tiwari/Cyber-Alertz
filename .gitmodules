@@ -1,0 +1,6 @@
+[submodule "Cyber-Alertz-web-scrapping-microservice"]
+	path = Cyber-Alertz-web-scrapping-microservice
+	url = https://github.com/Akhand-Pratap-Tiwari/Cyber-Alertz-web-scrapping-microservice.git
+[submodule "CyberAlertz_FrontEnd"]
+	path = CyberAlertz_FrontEnd
+	url = https://github.com/MANURAJ7/CyberAlertz_FrontEnd.git
